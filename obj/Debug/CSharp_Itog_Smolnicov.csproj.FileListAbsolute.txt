@@ -1,0 +1,43 @@
+Z:\C#_Itog\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.exe.config
+Z:\C#_Itog\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.exe
+Z:\C#_Itog\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.pdb
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.csprojResolveAssemblyReference.cache
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.Form1.resources
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.Properties.Resources.resources
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.csproj.GenerateResource.Cache
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.exe
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.pdb
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.exe.config
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.exe
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.pdb
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.exe
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.pdb
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.csprojResolveAssemblyReference.cache
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.Form1.resources
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.Properties.Resources.resources
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.csproj.GenerateResource.Cache
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.HelpExample_frm.resources
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.HelpRules_frm.resources
+C:\Users\Julia\Desktop\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.exe.config
+C:\Users\Julia\Desktop\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.exe
+C:\Users\Julia\Desktop\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.pdb
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.HelpExample_frm.resources
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.HelpRules_frm.resources
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.RightSolution1_Frm.resources
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.RightSolution1_Frm.resources
+E:\My documents\Visual Studio 2015\Projects\курсы\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.Greeting_Form.resources
+Z:\C#_Itog\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.Greeting_Form.resources
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.exe.config
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.exe
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\bin\Debug\CSharp_Itog_Smolnicov.pdb
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.csprojAssemblyReference.cache
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.Form1.resources
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.Greeting_Form.resources
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.HelpExample_frm.resources
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.HelpRules_frm.resources
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.Properties.Resources.resources
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.RightSolution1_Frm.resources
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.csproj.GenerateResource.cache
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.exe
+E:\Visual Studio\C#projects\CSharp_Itog_Smolnicov\obj\Debug\CSharp_Itog_Smolnicov.pdb
