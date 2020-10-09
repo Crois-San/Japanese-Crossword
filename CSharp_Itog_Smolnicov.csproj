@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C57D304D-AFD3-4DCA-B3CA-0165A9F7BD54}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CSharp_Itog_Smolnicov</RootNamespace>
+    <AssemblyName>CSharp_Itog_Smolnicov</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Greeting_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Greeting_Form.Designer.cs">
+      <DependentUpon>Greeting_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpExample_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpExample_frm.Designer.cs">
+      <DependentUpon>HelpExample_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpRules_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpRules_frm.Designer.cs">
+      <DependentUpon>HelpRules_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JapanCross_field.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RightSolution1_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RightSolution1_Frm.Designer.cs">
+      <DependentUpon>RightSolution1_Frm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Greeting_Form.resx">
+      <DependentUpon>Greeting_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpExample_frm.resx">
+      <DependentUpon>HelpExample_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpRules_frm.resx">
+      <DependentUpon>HelpRules_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RightSolution1_Frm.resx">
+      <DependentUpon>RightSolution1_Frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zadanie1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zadanie2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zadanie3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zero.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cell_Img.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cell_img.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wfwe.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cell_img1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cellNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cellNew2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cell_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cell_img2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JapanCross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cell_img1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cell_img21.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
